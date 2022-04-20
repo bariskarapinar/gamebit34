@@ -2,7 +2,7 @@
  
 [![Linkedin Badge](https://img.shields.io/badge/-BarisKarapinar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/baris-karapinar/)](https://www.linkedin.com/in/baris-karapinar/) [![Medium Badge](https://img.shields.io/badge/-@bariskarapinar-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@bariskarapinar)](https://medium.com/@bariskarapinar)
 
-I'm Baris, I'm a Software Engineer, MSc 👨‍💻 I am mostly working on mobile technologies and Java development.
+I'm Baris, I'm a Software Engineer 👨‍💻 I am mostly working on mobile technologies and Java development.
 🏄‍♂️. 
 
 
